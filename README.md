@@ -1,4 +1,4 @@
-# Domain Model for a School
+to cha# Domain Model for a School
 
 ## Objectives
 
